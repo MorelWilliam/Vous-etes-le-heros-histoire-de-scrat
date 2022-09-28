@@ -8,5 +8,6 @@ __Inspirations:__ [L'ère de glace](https://www.google.com/search?gs_ssp=eJzj4tL
 
 __Palette de couleur:__ [coolors.co](https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500)
 
-## Diagramme ![vous_etes_le_heros](assets/diagramme_vous_etes_le_heros.png)
+## Diagramme 
+![vous_etes_le_heros](Assets/diagramme_vous_etes_le_heros.png)
 
