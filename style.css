@@ -1,0 +1,72 @@
+@font-face {
+	src:url("../morel_william_vous-etes-le-heros-582-324MO/font/frosty.regular.ttf") format("truetype");
+	font-family: "frosty.regular";
+}
+
+body {
+	background-color: #023047;
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.game {
+	background-color: #219ebc;
+	width: 700px;
+	min-height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding:35px;
+	
+}
+
+img {
+	width: 700px;
+	height: 400px;
+	margin-top: 15px;
+}
+
+button {
+	margin-top: 35px;
+	height: 35px;
+	width: 200px;
+	border: solid #023047 0px;
+	background-color: #8ecae6;
+	transition: background-color 0.2s;
+
+}
+
+h1 {
+	font-family: "frosty.regular";
+	letter-spacing: 10px;
+	font-weight: 800;
+	font-size: 60px;
+	margin: -10px;
+}
+
+p {
+	color: black;
+	font-family: "Archivo Black", sans-serif;
+	margin: 5px;
+}
+
+button:hover {
+	background-color: #fb8500;
+}
+
+.barre {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: "Archivo Black", sans-serif;
+	text-align: center;
+}

@@ -1,0 +1,318 @@
+<mxfile host="65bd71144e">
+    <diagram id="tgp8K1TkiKvVbpZkieF6" name="Page-1">
+        <mxGraphModel dx="1338" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="278" value="" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="336.5" y="556" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="404" y="315" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="344" y="280" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="404" y="520" as="sourcePoint"/>
+                        <mxPoint x="404" y="556" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="336" y="400" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Genre : &lt;/b&gt;Aventure&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Inspiration : &lt;/b&gt;Age de glace&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Nom : &lt;/b&gt;L'histoire de Scrat&amp;nbsp;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Couleur de fond arrière :&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;#01314b&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;f&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Couleur de fond avant :&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;#248ab8&lt;/font&gt;&lt;b&gt;dffsaff&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Boutons :&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Fond : Light Blue&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Texte : Noir&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;État de survol des boutons :&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Fond : Orange&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Texte : Noir&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="-230" y="80" width="518" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="299" y="440" as="sourcePoint"/>
+                        <mxPoint x="335" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Vers le troupeau de mammouth&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="343.25" y="508" width="120.5" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="" style="endArrow=none;html=1;fontSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="125" target="30" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="350" y="520" as="sourcePoint"/>
+                        <mxPoint x="400" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="238" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Scrat à un rêve depuis tout petit, il doit retrouver sa noisette&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="342.75" y="285" width="119" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="239" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Commencer à chercher vers&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="344.75" y="426" width="119" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="241" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="472" y="439.6" as="sourcePoint"/>
+                        <mxPoint x="508" y="439.6" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="242" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Vers les glaciers&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="508" y="433" width="69" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="243" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Vers la forêt&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="234" y="433" width="69" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="251" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="459" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="252" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Tu trouves Sid&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="638.75" y="485" width="119" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="253" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="697.85" y="557" as="sourcePoint"/>
+                        <mxPoint x="698" y="612" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="254" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Parler avec Sid pour&amp;nbsp; avoir des informations sur la noisette&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="588.25" y="541" width="220" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="255" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="911.25" y="499.6" as="sourcePoint"/>
+                        <mxPoint x="961.25" y="499.6" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="257" value="&lt;span style=&quot;font-size: 8px&quot;&gt;L'ignorer et partir seul&amp;nbsp; pour accomplir votre objectif&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="798.25" y="494" width="120" height="4" as="geometry"/>
+                </mxCell>
+                <mxCell id="258" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="766" y="498.5999999999999" as="sourcePoint"/>
+                        <mxPoint x="802" y="498.5999999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="259" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="619" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="260" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Sid te dit d'aller à la fin du glacier, car il pense avoir vu une noisette&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="634.75" y="622" width="131.25" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="261" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="697.5999999999999" y="659" as="sourcePoint"/>
+                        <mxPoint x="697.75" y="714" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="262" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="641" y="719" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="263" value="&lt;span style=&quot;font-size: 8px&quot;&gt;C'était une fausse noisette,&amp;nbsp; tu tombes dans l'eau et tu te noies.&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="635.75" y="723" width="131.25" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="264" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="697.6999999999999" y="758" as="sourcePoint"/>
+                        <mxPoint x="697.8499999999998" y="813" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="265" value="&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;Fin, revenir au début&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="657" y="806" width="82" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="266" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="967.5" y="480" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="267" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Tu ne trouves aucun signe d'une noisette, mais tu as&amp;nbsp; trouvé un poisson.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="972.5" y="483" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="268" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1027.19" y="520" as="sourcePoint"/>
+                        <mxPoint x="1027.19" y="560" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="269" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="968.5" y="563" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="270" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Tu décides d'aller vers les mammouths et peux-être que le poisson te serviras.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="973.5" y="566" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="271" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1027.1" y="603" as="sourcePoint"/>
+                        <mxPoint x="1027.25" y="649" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="276" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Tu trouves Manny et il te dit de te débrouiller seul.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="347.25" y="570.5" width="118" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="405.96" y="650" as="sourcePoint"/>
+                        <mxPoint x="405.96" y="686" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="281" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Continuer à le suivre&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="342.75" y="636" width="120.5" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="284" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Te diriger vers la forêt&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="589" width="97.5" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="285" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="351.25" y="689" width="120" height="91" as="geometry"/>
+                </mxCell>
+                <mxCell id="286" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Manny te pousses et tu tombes dans un grotte. Heureusement tu découvres une femme magnifique et t'aimes mieux finir ta vie avec Scratina qu'avec ta noisette.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="694" width="119" height="76" as="geometry"/>
+                </mxCell>
+                <mxCell id="288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="405.96000000000026" y="784" as="sourcePoint"/>
+                        <mxPoint x="405.96000000000026" y="820" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="289" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Fin&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="347.25" y="820" width="120.5" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="294" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="479" width="136" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="295" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Tu trouves Diego, il veut un poisson contre la position de la noisette&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="65.69" y="498" width="82.62" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="296" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="294" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="107.67" y="584" as="sourcePoint"/>
+                        <mxPoint x="108" y="597" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="297" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Vas vers les glaciers pour trouver un poisson&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="47.650000000000006" y="604" width="120.69" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="301" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="39.33" y="519" as="sourcePoint"/>
+                        <mxPoint y="519" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="302" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Lui donner le poisson.&lt;/span&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-102" y="512" width="120.69" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="303" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-83.67000000000007" y="519.3299999999999" as="sourcePoint"/>
+                        <mxPoint x="-123" y="519.3299999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="304" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%208px%26quot%3B%26gt%3BVoulez%20vous%26amp%3Bnbsp%3B%20glisser%20%C3%A0%20droite%20pour%20en%20apprendre%20plus%20sur%20Gustave%20%3F%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22345%22%20y%3D%22586%22%20width%3D%22119%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-243.75" y="498" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="305" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Diego te dis l'emplacement de la noisette et tu finis ta vie avec celle-ci.&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-243.75" y="501" width="113.75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="307" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-244.67000000000007" y="519.3299999999999" as="sourcePoint"/>
+                        <mxPoint x="-284" y="519.3299999999999" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="308" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Fin&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-320" y="513" width="54.25" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="309" value="&lt;span style=&quot;font-size: 8px&quot;&gt;Vas vers les mammouths&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="967.5" y="657" width="120" height="4" as="geometry"/>
+                </mxCell>
+                <mxCell id="311" value="" style="endArrow=classic;html=1;entryX=0.468;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="108" y="440" as="sourcePoint"/>
+                        <mxPoint x="107.64799999999991" y="478.8000000000002" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="312" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="108" y="440" as="sourcePoint"/>
+                        <mxPoint x="238" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="313" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="596" as="sourcePoint"/>
+                        <mxPoint x="336.5" y="595.71" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="314" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="207" y="600" as="sourcePoint"/>
+                        <mxPoint x="207" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="315" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="228" y="595" as="sourcePoint"/>
+                        <mxPoint x="208" y="595" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="228" y="595"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="316" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="439.71000000000004" as="sourcePoint"/>
+                        <mxPoint x="200" y="439.71000000000004" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="319" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="698" y="440" as="sourcePoint"/>
+                        <mxPoint x="697.96" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="320" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="577" y="440" as="sourcePoint"/>
+                        <mxPoint x="700" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="321" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="405.75" y="850" as="sourcePoint"/>
+                        <mxPoint x="1162.3809988839287" y="850" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="323" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="406.21" y="830" as="sourcePoint"/>
+                        <mxPoint x="406.21" y="850" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="324" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="700" y="830" as="sourcePoint"/>
+                        <mxPoint x="699.71" y="850" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="325" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1162" y="850" as="sourcePoint"/>
+                        <mxPoint x="1160" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="326" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="405" y="350" as="sourcePoint"/>
+                        <mxPoint x="1155" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="327" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1160" y="350" as="sourcePoint"/>
+                        <mxPoint x="1150" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="328" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1027" y="670" as="sourcePoint"/>
+                        <mxPoint x="1027" y="850.4443359375" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
