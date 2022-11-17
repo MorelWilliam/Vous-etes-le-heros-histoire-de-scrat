@@ -64,10 +64,14 @@ let chaptersObj = {
         img : "./Assets/image/scrat_noisette.jpg",
         options : [{optionText:"fin",action:"goToChapter('chapitre1')"}]},
     }
-    
+    if(localStorage.getItem("chaptersObj")){
+        goToChapter(localStorage.getItem("chaptersObj"))
+    }else{
+        goToChapter(`chapitre1`)
+    }
     function goToChapter(chapterName) {
 
-     
+     localStorage.setItem("chaptersObj", chapterName);
 
         if(chaptersObj[chapterName]["video"]){
             document.querySelector(".image_rotate").innerHTML= `<video src="${chaptersObj[chapterName]["video"]}" class="affichage_video"  autoplay muted loop>`;
@@ -87,18 +91,21 @@ let chaptersObj = {
         let barre = document.querySelector(".barre");
         barre.innerHTML = "";
         for(element of chaptersObj[chapterName]['options']){
+
+
+            
+
             let bouton = document.createElement("button");
             let text = document.createTextNode(element["optionText"]);
             bouton.appendChild(text);
             bouton.setAttribute("onclick",element["action"]);
             bouton.setAttribute("type","button");
             barre.appendChild(bouton);
-            
             bouton.addEventListener("click", function(){
-        
                 const audio = new Audio ("./Assets/son/ice.mp3");
                 audio.volume = 0.4;
-                audio.play();
+                audio.play();             
+            
         })
         }
         };
@@ -108,16 +115,15 @@ let chaptersObj = {
         function etatFish(){
             fishFounded = true;
             goToChapter("chapitre8");
+            localStorage.setItem("fishFounded",fishFounded)
         }
 
         function fishVerif(){
             if(fishFounded == true ){goToChapter('chapitre10')}
-            else if (fishFounded == false){goToChapter('chapitre1')}
+            if (fishFounded == false){goToChapter('chapitre1')}
+            localStorage.setItem("fishFounded",fishFounded)
         }
 
-
-        goToChapter("chapitre1");
-          
     
 
 
