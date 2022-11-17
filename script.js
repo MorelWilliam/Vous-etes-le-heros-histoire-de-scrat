@@ -23,6 +23,7 @@ let chaptersObj = {
         subtitle : "La rencontre avec Sid",
         text : "Tu trouves Sid, est-ce que tu",
         img : "./Assets/image/sid_discussion.png",
+        video : "./Assets/video/sid_trigger.mp4",
         options : [{optionText:"parles avec lui pour avoir des informations sur la noisette",action:"goToChapter('chapitre5')"},{optionText:"l'ignore et tu pars seul pour accomplir ton objectif",action:"goToChapter('chapitre7')"}]},
     
     
@@ -36,6 +37,7 @@ let chaptersObj = {
         subtitle : "La mort de scrat",
         text : "C'était une fausse noisette, tu tombes dans l'eau et tu te noies",
         img : "./Assets/image/scrat_sirene.JPG",
+        video : "./Assets/video/mort_scrat.mp4",
         options : [{optionText:"Fin",action:"goToChapter('chapitre1')"}]},
         
     chapitre7 : {
@@ -64,11 +66,24 @@ let chaptersObj = {
     }
     
     function goToChapter(chapterName) {
+
+     
+
+        if(chaptersObj[chapterName]["video"]){
+            document.querySelector(".image_rotate").innerHTML= `<video src="${chaptersObj[chapterName]["video"]}" class="affichage_video"  autoplay muted loop>`;
+        }
+        else{
+            document.querySelector(".image_rotate").innerHTML=`<img src=${chaptersObj[chapterName]["img"]} class="scrat_sirene">`;
+        };
+
+
         console.log(chaptersObj[chapterName]["subtitle"]);
         console.log(chaptersObj[chapterName]["text"]);
         document.querySelector("h1").innerHTML=chaptersObj[chapterName]["subtitle"];
         document.querySelector(".texte").innerHTML=chaptersObj[chapterName]["text"];
-        document.querySelector(".image_rotate").innerHTML=`<img src=${chaptersObj[chapterName]["img"]} class="scrat_sirene">`;
+
+
+
         let barre = document.querySelector(".barre");
         barre.innerHTML = "";
         for(element of chaptersObj[chapterName]['options']){
@@ -78,6 +93,13 @@ let chaptersObj = {
             bouton.setAttribute("onclick",element["action"]);
             bouton.setAttribute("type","button");
             barre.appendChild(bouton);
+            
+            bouton.addEventListener("click", function(){
+        
+                const audio = new Audio ("./Assets/son/ice.mp3");
+                audio.volume = 0.4;
+                audio.play();
+        })
         }
         };
 
@@ -92,10 +114,6 @@ let chaptersObj = {
             if(fishFounded == true ){goToChapter('chapitre10')}
             else if (fishFounded == false){goToChapter('chapitre1')}
         }
-
-
-         
-
 
 
         goToChapter("chapitre1");

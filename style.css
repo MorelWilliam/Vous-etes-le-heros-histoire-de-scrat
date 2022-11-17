@@ -30,6 +30,12 @@ img {
 	margin-top: 15px;
 }
 
+.affichage_video{
+	width: 700px;
+	height: 400px;
+	margin-top: 15px;
+}
+
 button {
 	margin-top: 35px;
 	height: 35px;
