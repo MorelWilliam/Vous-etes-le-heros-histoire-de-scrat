@@ -69,8 +69,9 @@ let chaptersObj = {
     }else{
         goToChapter(`chapitre1`)
     }
-    function goToChapter(chapterName) {
-
+    let body = document.querySelector("body")
+    function goToChapter(chapterName)
+     {
      localStorage.setItem("chaptersObj", chapterName);
 
         if(chaptersObj[chapterName]["video"]){
@@ -101,10 +102,15 @@ let chaptersObj = {
             bouton.setAttribute("onclick",element["action"]);
             bouton.setAttribute("type","button");
             barre.appendChild(bouton);
+            let sonBtn = document.querySelector(".son");
             bouton.addEventListener("click", function(){
                 const audio = new Audio ("./Assets/son/ice.mp3");
                 audio.volume = 0.4;
-                audio.play();             
+                if (sonBtn.checked == true){audio.play()};   
+                
+                body.classList.remove(body.classList[0])
+                body.classList.add(chapterName)
+                console.log(body.classList)
             
         })
         }
@@ -123,10 +129,16 @@ let chaptersObj = {
             if (fishFounded == false){goToChapter('chapitre1')}
             localStorage.setItem("fishFounded",fishFounded)
         }
+let resetBtn = document.querySelector(".reset")
+function reset (){
+    localStorage.clear();  
+    goToChapter('chapitre1');
+}
+resetBtn.addEventListener("click",function(){
+    reset()
+});
 
-    
 
 
 
-    
     

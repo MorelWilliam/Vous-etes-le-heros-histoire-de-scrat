@@ -76,3 +76,30 @@ h2 {
 	font-family: "Archivo Black", sans-serif;
 	text-align: center;
 }
+
+.sonEffacer{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.chapitre2 .game {
+	background-color: #502274;
+}
+
+.chapitre2 button {
+	background-color:#ffa0fd;
+}
+
+.chapitre2 button:hover {
+	background-color:#5BC8AF;
+}
+
+
+.chapitre1 .game {
+	background-color: #E84855;
+}
+
+.chapitre1 button:hover{
+	background-color:#FF9B71;
+}
